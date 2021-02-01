@@ -1,0 +1,31 @@
+{
+	"mobiles":[
+		{
+			"name":"Nokia 7.2",
+			"image":"img/1.jpg",
+			"originalprice":16000,
+			"price":15999
+		},{
+			"name":"Samsung A30",
+			"image":"img/2.jpg",
+			"originalprice":14000, 
+			"price":13999
+		},{
+			"name":"Micromax",
+			"image":"img/3.jpg",
+			"originalprice":10000,
+			"price":9999
+		},{  
+			"name":"one plus7t",  
+			"image":"img/4.jpg",
+			"originalprice":40000,
+			"price":38999
+		},{
+			"name":"red mi note 8pro",
+			"image":"img/5.jpg",
+			"originalprice":20000,
+			"price":17999
+		}
+
+	]
+}
